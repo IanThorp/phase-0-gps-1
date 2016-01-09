@@ -1,6 +1,6 @@
 ## Awesome Page
 
-This is our GPS!
+Hello this is our first GPS!
 
 ##Bold and Italic
 **This would be a bold statement.**
@@ -18,3 +18,4 @@ This is a code block as well.
 ##Link
 
 [Visit Google!](https://www.google.com)
+
