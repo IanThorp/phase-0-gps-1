@@ -1,5 +1,7 @@
 ## Awesome Page
 
+Hello this is our first GPS!
+
 ##Bold and Italic
 **This would be a bold statement.**
 *This is an Italic statement*
@@ -16,3 +18,4 @@ This is a code block as well.
 ##Link
 
 [Visit Google!](https://www.google.com)
+
