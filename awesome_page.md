@@ -1,5 +1,7 @@
 ## Awesome Page
 
+This is our GPS!
+
 ##Bold and Italic
 **This would be a bold statement.**
 *This is an Italic statement*
